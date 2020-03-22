@@ -1,0 +1,23 @@
+{
+  "name": "updatedPortfolio",
+  "version": "1.0.0",
+  "description": "This is my most recent portfolio deployed with an Express server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaymond-dev/updatedPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahaymond-dev/updatedPortfolio/issues"
+  },
+  "homepage": "https://github.com/ahaymond-dev/updatedPortfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
